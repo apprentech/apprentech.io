@@ -16,13 +16,13 @@ Correct! We'll never take a cent from you either now or later... but we will plu
 * Free kosher meals daily
 * Free Talmud/Daf Yomi classes during lunch
 * Free gym membership
-* A (initially: very low) salary that increases as your confidence and experience level increases [We want to keep you on our team, after all :)]
+* A (initially: low) salary that increases as your confidence and experience level increases [We want to keep you on our team, after all :)]
 * Share options in any of our startups you choose to work with
 
 
 ### Interested?
 
-Drop us an [email](hello@apprentech.io) with your CV, and we'll be in touch.
+Drop us an [email](mailto:hello@apprentech.io) with your CV, and we'll be in touch.
 
 
 ### Final Thoughts/Funny Stuff!
