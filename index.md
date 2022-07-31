@@ -37,4 +37,6 @@ This Course Might Not Be For You If:
 - You use 'tipex' for typos in your word processor :>
 - Changing a lightbulb requires manufacturers instructions ;]
 - You sometimes confuse the AC and TV remote controls :)
+- Boiling an egg is something you'd prefer to leave to professionals
+- You're talented enough to burn water
 ```
