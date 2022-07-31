@@ -1,15 +1,15 @@
 ## ApprenTech - Paid High Tech Apprenticeships
 
-So you're interested in pivoting into High Tech? Think you'd fancy being a Full Stack Dev, DevOps Engineer, or Backend Engineer? Look no further!
+Interested in pivoting into High Tech? Fancy being a Full Stack Dev, DevOps Engineer, or Backend Engineer? Look no further!
 
-My partners and [I](https://www.linkedin.com/in/garronkramer) each have a minimum of 10 years of enterprise experience working with companies ranging in size from 2 employees up to and including Fortune 500 companies, and we guarantee we'll get you up to speed quickly, or we'll pay you!
+My partners and [I](https://www.linkedin.com/in/garronkramer) each have a minimum of 10 years of enterprise experience working with companies ranging in size from 2 employees up to and including Fortune 500 companies, and we guarantee we'll get you up to speed 'Quick Fast!'
 
 Correct! We'll never take a cent from you either now or later... but we will plug you into the matrix and harvest your grey matter :)
 
 
 ### What Can You Expect?
 
-* Expect to Work/Study like a dog 8-10h a day, Sunday through Thursday
+* Expect to Work/Study like a dog 8h+ a day, Sunday through Thursday
 * You'll be involved in live projects, deploying code into production environments
 * You'll learn about how to build, optimise, and secure systems and environments (Networks, Servers, Services, Cloud Environments)
 * You'll learn about and use/implement virtualisation, containerisation, Linux, FreeBSD, OpenBSD, CI/CD pipelines, security best practices, DRY principles, server and infrastructure automation tools, cost optimisation tools... etc, etc
