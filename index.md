@@ -36,7 +36,7 @@ Drop us an [email](mailto:hello@apprentech.io) with your CV, and we'll be in tou
 ```markdown
 This Course Might Not Be For You If:
 - Boiling a kettle poses a challenge for you :)
-- You use 'tipex' for typos in your word processor :>
+- You use 'Tipp-Ex' for typos in your word processor :>
 - Changing a lightbulb requires manufacturers instructions ;]
 - You sometimes confuse the AC and TV remote controls :)
 - Boiling an egg is something you'd prefer to leave to professionals
