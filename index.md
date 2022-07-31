@@ -44,6 +44,13 @@ Drop us an [email](mailto:hello@apprentech.io) with your CV, and we'll be in tou
 
 
 
+### Find us on:
+
+[LinkedIn](https://www.linkedin.com/company/apprentech)
+[Facebook](https://www.facebook.com/apprentech)
+
+
+
 ### Final Thoughts/Funny Stuff!
 
 ```markdown
