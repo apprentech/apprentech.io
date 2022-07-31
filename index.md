@@ -4,7 +4,7 @@ Interested in pivoting into High Tech? Fancy being a Full Stack Dev, DevOps Engi
 
 My partners and [I](https://www.linkedin.com/in/garronkramer) each have a minimum of 10 years of enterprise experience working with companies ranging in size from 2 employees up to and including Fortune 500 companies, and we guarantee we'll get you up to speed 'Quick Fast!'
 
-We will never charge you, either directly or indirectly [think: discounted salaries after leaving bootcamp for the first 12 months!], for the training we provide... but we will plug you into the matrix and harvest your grey matter :)
+We will never charge you, either directly or indirectly, for the training we provide... but we will plug you into the matrix and harvest your grey matter :)
 
 
 
@@ -26,6 +26,15 @@ We will never charge you, either directly or indirectly [think: discounted salar
 ### Prospects?
 
 Within 12 months, we'll either offer you a full-time salaried position working within one of our startups [with share options, of course!] or you can go out to market to find the most exciting offer!
+
+
+
+### Minimum Requirements?
+
+* Your own Laptop, and be licensed to use it (We'll provide basic laptops if necessary)
+* You should have a reasonable command of either Windows, Apple Mac, or Linux
+* You need to be willing to commit >50% of your working week to our program
+* You need to be extremely self motivated, and ready to start learning immediately
 
 
 
