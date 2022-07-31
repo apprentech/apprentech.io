@@ -7,17 +7,19 @@ My partners and [I](https://www.linkedin.com/in/garronkramer) each have a minimu
 Correct! We'll never take a cent from you either now or later... but we will plug you into the matrix and harvest your grey matter :)
 
 
+
 ### What Can You Expect?
 
-* Expect to Work/Study like a dog 8h+ a day, Sunday through Thursday
-* You'll be involved in live projects, deploying code into production environments
-* You'll learn about how to build, optimise, and secure systems and environments (Networks, Servers, Services, Cloud Environments)
-* You'll learn about and use/implement virtualisation, containerisation, Linux, FreeBSD, OpenBSD, CI/CD pipelines, security best practices, DRY principles, server and infrastructure automation tools, cost optimisation tools... etc, etc
+* Work/Study like a beast 8h+ a day, Sunday through Thursday
+* Get involved in live projects, deploying code into production environments
+* Get involved in building, optimising, and securing systems and environments (Networks, Servers, Services, Cloud Environments)
+* Learn about and use/implement virtualisation, containerisation, Linux, FreeBSD, OpenBSD, CI/CD pipelines, security best practices, DRY principles, server and infrastructure automation tools, cost optimisation tools... etc, etc
+* A salary that increases as your confidence and experience level increases [We want to keep you on our team, after all :)]
 * Free kosher meals daily
 * Free extra-mural classes [Optional]
 * Free gym membership
-* A (initially: low) salary that increases as your confidence and experience level increases [We want to keep you on our team, after all :)]
-* Share options in any of our startups you choose to work with
+* Share options in any of our startups which you choose to join
+
 
 
 ### Prospects?
@@ -29,6 +31,7 @@ Within 12 months, we'll either offer you a full-time salaried position working w
 ### Interested?
 
 Drop us an [email](mailto:hello@apprentech.io) with your CV, and we'll be in touch.
+
 
 
 ### Final Thoughts/Funny Stuff!
