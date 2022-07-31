@@ -4,7 +4,7 @@ Interested in pivoting into High Tech? Fancy being a Full Stack Dev, DevOps Engi
 
 My partners and [I](https://www.linkedin.com/in/garronkramer) each have a minimum of 10 years of enterprise experience working with companies ranging in size from 2 employees up to and including Fortune 500 companies, and we guarantee we'll get you up to speed 'Quick Fast!'
 
-Correct! We'll never take a cent from you either now or later... but we will plug you into the matrix and harvest your grey matter :)
+We will never charge you, either directly or indirectly [think: discounted salaries after leaving bootcamp for the first 12 months!], for the training we provide... but we will plug you into the matrix and harvest your grey matter :)
 
 
 
