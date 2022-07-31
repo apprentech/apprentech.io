@@ -21,7 +21,7 @@ Correct! We'll never take a cent from you either now or later... but we will plu
 
 ### Prospects?
 
-In 6-12 months time, you we'll either offer you a full-time salaried position working within one of our startups [With share options, of course!], or you can choose to go out to market and find a better offer, or you can continue working with us until you have sufficient experience to get your dream job. The choice is yours!
+In 6-12 months time, we'll either offer you a full-time salaried position working within one of our startups [With share options, of course!], or you can choose to go out to market and find a better offer, or you can continue working with us until you have sufficient experience to get your dream job. The choice is yours!
 
 
 ### Interested?
