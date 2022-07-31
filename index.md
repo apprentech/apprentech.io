@@ -13,7 +13,7 @@ We will never charge you, either directly or indirectly, for the training we pro
 * Work/Study like a beast 8h+ a day, Sunday through Thursday
 * Get involved in live projects, deploying code into production environments
 * Get involved in building, optimising, and securing systems and environments (Networks, Servers, Services, Cloud Environments)
-* Learn about and use/implement virtualisation, containerisation, Linux, FreeBSD, OpenBSD, CI/CD pipelines, security best practices, DRY principles, server and infrastructure automation tools, cost optimisation tools... etc, etc
+* Learn about and use/implement virtualisation, containerisation, Linux, FreeBSD, OpenBSD, Kubernetes, CI/CD pipelines, security best practices, DRY principles, server and infrastructure automation tools, cost optimisation tools... etc, etc
 * Start coding from the first week (Python: Its the stuff legends are made of!)
 * A salary that increases as your confidence and experience level increases [We want to keep you on our team, after all :)]
 * Free kosher meals daily
@@ -46,8 +46,8 @@ Drop us an [email](mailto:hello@apprentech.io) with your CV, and we'll be in tou
 
 ### Find us on:
 
-[LinkedIn](https://www.linkedin.com/company/apprentech)
-[Facebook](https://www.facebook.com/apprentech)
+* [LinkedIn](https://www.linkedin.com/company/apprentech)
+* [Facebook](https://www.facebook.com/apprentech)
 
 
 
