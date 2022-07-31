@@ -26,7 +26,7 @@ Drop us an [email](hello@apprentech.io) with your CV, and we'll be in touch.
 
 
 ```markdown
-### This Course Might Not Be For You If:
+This Course Might Not Be For You If:
 - Boiling a kettle poses a challenge for you :)
 - You use 'tipex' for typos in your word processor :>
 - Changing a lightbulb requires manufacturers instructions ;]
