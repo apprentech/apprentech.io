@@ -1,6 +1,6 @@
 ## ApprenTech - Paid High Tech Apprenticeships
 
-So you're interested in cross-training into High Tech? Think you'd fancy being a Full Stack Dev, DevOps Engineer, or Backend Engineer? Look no further!
+So you're interested in pivoting into High Tech? Think you'd fancy being a Full Stack Dev, DevOps Engineer, or Backend Engineer? Look no further!
 
 My partners and I each have a minimum of 10 years of enterprise experience working with companies ranging in size from 2 employees up to and including Fortune 500 companies, and we guarantee we'll get you up to speed quickly, or we'll pay you!
 
