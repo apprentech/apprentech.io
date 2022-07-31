@@ -39,4 +39,5 @@ This Course Might Not Be For You If:
 - You sometimes confuse the AC and TV remote controls :)
 - Boiling an egg is something you'd prefer to leave to professionals
 - You're talented enough to burn water
+- [Please feel free to mail us jokes for this section!!!]
 ```
