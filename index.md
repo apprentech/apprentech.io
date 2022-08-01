@@ -31,7 +31,6 @@ Within 12 months, we'll either offer you a full-time salaried position working w
 
 ### Minimum Requirements?
 
-* Your own laptop [we can provide basic systems, if necessary]
 * You should have a reasonable command of either Windows, Apple Mac, or Linux
 * You need to be willing to commit >50% of your working week to our program
 * You need to be extremely self motivated, and ready to start learning immediately
@@ -40,7 +39,7 @@ Within 12 months, we'll either offer you a full-time salaried position working w
 
 ### Interested?
 
-Drop us an [email](mailto:hello@apprentech.io) with your CV, and we'll be in touch.
+Drop us an [email](mailto:hello@apprentech.io) telling us a little about yourself, and we'll be in touch.
 
 
 
