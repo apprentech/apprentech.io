@@ -16,9 +16,9 @@ We will never charge you, either directly or indirectly, for the training we pro
 * Learn about and use/implement virtualisation, containerisation, Linux, FreeBSD, OpenBSD, Kubernetes, CI/CD pipelines, security best practices, DRY principles, server and infrastructure automation tools, cost optimisation tools... etc, etc
 * Start coding from the first week (Python: Its the stuff legends are made of!)
 * A salary that increases as your confidence and experience level increases [We want to keep you on our team, after all :)]
-* Free kosher meals daily
+* Free kosher meals daily [Once you start working on startup projects!]
 * Free extra-mural classes [Optional]
-* Free gym membership
+* Free gym membership [Once you start working on startup projects!]
 * Share options in any of our startups which you choose to join
 
 
