@@ -16,23 +16,28 @@ We will never charge you, either directly or indirectly, for the training we pro
 * Learn about and use/implement virtualisation, containerisation, Linux, FreeBSD, OpenBSD, Kubernetes, CI/CD pipelines, security best practices, DRY principles, server and infrastructure automation tools, cost optimisation tools... etc, etc
 * Start coding from the first week (Python: Its the stuff legends are made of!)
 * Remuneration that increases as your confidence and experience level increases [We want to keep you on our team, after all :)]
-* Free kosher meals daily [Once you start working on startup projects!]
-* Free extra-mural classes [Optional]
-* Free gym membership [Once you start working on startup projects!]
 * Share options in any of our startups which you choose to join
 
+
+### What Do We Expect?
+
+* Someone who has a Computer Science Degree from a reputable university, or
+* Someone who has completed an intensive coding bootcamp from a reputable organisation, or
+* Someone who is currently completing a CS degree or attending a coding bootcamp
+* Someone who is willing to work hard, and commit to tight deadlines
+* Someone with the ability and drive to work remotely, and who enjoys project-based work
+* Someone who is equally comfortable working independently and in a remotely-distributed team
 
 
 ### Prospects?
 
-Within 12 months, we'll either offer you a full-time salaried position working within one of our startups [with share options, of course!] or you can go out to market to find the most exciting offer!
-
+By the end of each project, you will have gained extensive experience working with a range of back/frontend technologies, and can either choose to continue working with us, or go out to market and find other exciting opportunities.
 
 
 ### Minimum Requirements?
 
-* You should have a reasonable command of either Windows, Apple Mac, or Linux
-* You need to be willing to commit >50% of your working week to our program
+* Someone who has a Computer Science Degree OR who has completed an intensive coding bootcap OR is actively working toward either
+* You need to be willing to commit >75% of your working week to our program
 * You need to be extremely self motivated, and ready to start learning immediately
 
 
